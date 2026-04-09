@@ -61,6 +61,7 @@
 | 猫の仓库         | https://www.catacg.com/                | -                                                                                          | 需登录           |
 | 猫猫网盘         | https://catcat.cloud/                  | [GitHub](https://github.com/Yuri-NagaSaki)                                                 | -             |
 | 喵源领域         | https://www.nyantaku.com/              | [地址发布页](https://www.acgn.im/) \| [网盘页面](https://www.nullcloud.top/)                        | 需登录           |
+| 魔皇地狱         | https://pan.mhdy.net/                  | [地址发布页](https://www.mohuangdiyu.com/)                                                      | -             |
 | 绮梦ACG        | https://game.acgs.one/                 | [地址发布页](https://acgs.one/)                                                                 | 需回复           |
 | 青桔网          | https://www.qingju.org/                | [地址发布页](https://qingju.org/) \| [GitHub](https://github.com/qingjuacg/qingju/)             | -             |
 | 绅士天堂         | https://www.chgal.com/                 | -                                                                                          | 需登录           |
@@ -68,6 +69,7 @@
 | 唯のVN档案馆      | https://www.yinghu.xyz/                | [地址发布页](http://auroralili.cloudns.ch/) \| [网盘页面](https://gal.yinghu.xyz/)                  | 以冷门游戏为主       |
 | 小鳥遊暁の会员制餐厅   | https://t-satoru.top/                  | -                                                                                          | 仅移动端资源        |
 | 真红小站         | https://shinnku.com/                   | [GitHub](https://github.com/shinnku-nikaidou/upset-gal-web)                                | -             |
+| 梓澪の妙妙屋       | http://zi0.cc/                         | -                                                                                          | -             |
 | 紫缘社          | https://www.galzy.eu.org/              | -                                                                                          | -             |
 
 ### Telegram频道
@@ -91,9 +93,7 @@
 | 莫邪游戏资源网    | https://xiuren.cyou/      |
 | VNDL       | https://www.galrc.eu.org/ |
 | 羽ACG       | https://seve.yugal.cc/    |
-| 梓澪の妙妙屋     | https://zi0.cc/           |
 | My Galgame | https://www.ttloli.com/   |
-| 魔皇地狱       | https://pan.mhdy.net      |
 
 
 ## 📅更新日志
