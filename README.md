@@ -45,7 +45,7 @@
 | MikuGame              | https://mikugame.icu/                  | -                                                                                               | -                      |
 | NekoGAL               | https://www.nekogal.com/               | -                                                                                               | 需登录 \| 需回复       |
 | Nysource              | https://nysoure.com/                   | [GitHub](https://github.com/KUN1007/kun-touchgal-next)                                          | -                      |
-| SakuGAL | https://sakugal.com/ | - | 免费下载 \| 无需注册 |
+| SakuGAL | https://sakugal.com/ | - | 需回复 | 无需注册 |
 | Sharotto              | https://www.sharotto.com/              | -                                                                                               | 需登录 \| 每日限量下载 |
 | Shionlib              | https://shionlib.com                   | [GitHub](https://github.com/Ringyuki/shionlib-frontend)                                         | -                      |
 | Singureo              | https://www.singureo.com/              | -                                                                                               | -                      |
